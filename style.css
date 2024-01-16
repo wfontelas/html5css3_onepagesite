@@ -21,17 +21,17 @@ body {
 
 /* Layout */
 .Container {
-    margin: 0 auto;    
+    margin: 0 auto;
 }
 
 .Flex {
     display: flex;
-    justify-content:space-between;    
+    justify-content: space-between;
 }
 
 .Flex2 {
-   display: flex;
-   align-items: center; 
+    display: flex;
+    align-items: center;
 }
 
 .Flex3 {
@@ -136,11 +136,11 @@ main h2 {
     background-position: center;
 }
 
-#destaqueSobre{
+#destaqueSobre {
     display: none;
 }
 
-#textoSobre{
+#textoSobre {
     color: #fff;
     padding: 0px 10px;
 }
@@ -162,7 +162,7 @@ main h2 {
     padding: 50px 10px;
 }
 
-#onepage h2{
+#onepage h2 {
     margin-bottom: 10px;
 }
 
@@ -170,7 +170,7 @@ main h2 {
     margin-bottom: 25px;
 }
 
-#video iframe{
+#video iframe {
     width: 340px;
     height: 191px;
     border: 0;
@@ -186,12 +186,13 @@ main h2 {
     }
 
     /* Destaque */
-    main h1, main h2 {
+    main h1,
+    main h2 {
         text-shadow: #000 0.05em 0.05em 0.05em;
     }
 
     /* One page */
-    #video iframe{
+    #video iframe {
         width: 560px;
         height: 315px;
     }
