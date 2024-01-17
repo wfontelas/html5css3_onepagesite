@@ -40,7 +40,7 @@ body {
 
 .Flex3 {
     display: flex;
-    align-items: center;
+    flex-direction: column;
 }
 
 .Flex4 {
